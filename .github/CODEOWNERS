@@ -1,0 +1,12 @@
+# مالكو الكود - Code Owners
+# This file defines who is responsible for reviewing changes in this repository
+
+* @sultanksa017
+
+# Database related files
+/src/database/ @sultanksa017
+/src/db/ @sultanksa017
+
+# Security and CI/CD
+/.github/ @sultanksa017
+SECURITY.md @sultanksa017
